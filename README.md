@@ -8,4 +8,4 @@
 | [Разработка нефтяных скважин в регионе](oil_wells) | Построение модели для определения региона, где добыча нефти принесёт наибольшую прибыль.| *pandas* *numpy* *matplotlib* *seaborn* *sklearn* *scipy* |
 | [Отток клиентов банка](bank_customer_churn) | Анализ оттока клиентов из банка для выбор стратегии (удержание старых клиентов или привлечение новых клиентов). | *pandas* *numpy* *matplotlib* *seaborn* *sklearn* |
 | [Прогнозирование количества заказов такси](taxi) | Построение модели для предсказания количества заказов такси в период пиковой нагрузки.| *pandas* *numpy* *matplotlib* *seaborn* *statsmodels* *sklearn* *catboost* *lightgbm* |
-| [03_04_toxic_comments](toxic_comments) | Построение модели, которая будет выявлять токсичные комментарии и отправлять их на модерацию.| *pandas* *numpy* *nltk* *sklearn* *lightgbm* *tqdm* *pytorch* *transformers* |
+| [03_04_toxic_comments](03_04_toxic_comments) | Построение модели, которая будет выявлять токсичные комментарии и отправлять их на модерацию.| *pandas* *numpy* *nltk* *sklearn* *lightgbm* *tqdm* *pytorch* *transformers* |
