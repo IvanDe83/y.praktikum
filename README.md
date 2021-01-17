@@ -12,3 +12,4 @@
 | [Прогнозирование количества заказов такси](03_03_time_series) | Построение модели для предсказания количества заказов такси в период пиковой нагрузки.| *lightgbm* *matplotlib* *numpy* *pandas* *seaborn* *sklearn* *statsmodels* |
 | [Обнаружение токсичных комментариев](03_04_toxic_comments) | Построение модели, которая будет выявлять токсичные комментарии и отправлять их на модерацию.| *lightgbm* *matplotlib* *nltk* *numpy*  *pandas* *pytorch* *seaborn* *sklearn* *tqdm* *transformers* |
 | [SQL-запросы и анализ авиаперевозок](04_01_data_extraction) | Создание csv таблиц с помощью SQL-запросов для исследовательского анализа продаж авиабилетов в дни фестивалей.| *matplotlib* *numpy* *pandas* *seaborn* *scipy* *sql* |
+| [Определение возраста по фото](04_02_computer_vision) | Определение возраста по фотографиям людей. Погрешность не должна превышать 8 лет. | *matplotlib* *numpy* *pandas* *seaborn* *sklearn* *tensorflow* |
